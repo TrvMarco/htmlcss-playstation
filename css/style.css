@@ -3,6 +3,10 @@
 ----------*/
 header{
     height: 150px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
 }
 
 .header-top{
@@ -11,4 +15,8 @@ header{
 
 .sony-logo{
     height: 15px;
+}
+
+.chevron-nav{
+    height: 10px;
 }
