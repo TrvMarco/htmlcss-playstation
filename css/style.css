@@ -5,6 +5,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* buttons */
 .btn_custom{
     border: none;
     padding: 8px 20px;
@@ -15,8 +16,22 @@ body{
     background-color: #CD3D0F;
 }
 
+.btn_blue{
+    background-color: #2D64E6;
+    color: #fff;
+}
+
 .border-img-hero{
     border-radius: 20px;
+}
+
+/* text-color */
+.text_blue{
+    color: #0072CE;
+}
+
+.text_gray{
+    color: #727272;
 }
 
 /*----------
