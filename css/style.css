@@ -1,12 +1,29 @@
 /*----------
+  CUSTOMS
+----------*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn_custom{
+    border: none;
+    padding: 8px 20px;
+    color: inherit;    
+}
+
+.btn_orange{
+    background-color: #CD3D0F;
+}
+
+/*----------
     HEADER
 ----------*/
 header{
-    height: 150px;
     width: 100%;
     position: fixed;
     top: 0;
     left: 0;
+    z-index: 100;
 }
 
 .header-top{
@@ -20,3 +37,25 @@ header{
 .chevron-nav{
     height: 10px;
 }
+/*----------
+    HERO
+----------*/
+.hero{
+    margin-top: 97px;
+}
+
+.hero-top{
+    background-image: url("../img/jumbo-bg.png");
+    background-position: top;
+    background-size: cover;
+}
+
+.hero-img{
+    height: 50px;
+}
+
+.hero-top{
+    padding-top: 250px;
+    padding-bottom: 50px;
+}
+
