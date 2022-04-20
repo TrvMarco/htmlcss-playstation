@@ -57,6 +57,10 @@ header{
     height: 10px;
 }
 
+.header-lens{
+    height: 25px;
+}
+
 /*----------
     HERO
 ----------*/
@@ -90,3 +94,23 @@ header{
     border-bottom: 2px solid #0072ce;
 }
 
+.img-filter{
+    filter: grayscale(50%);
+}
+
+.product-container:hover .img-filter{
+    filter: none;
+}
+
+/*-------------
+  GAME PREVIEW
+-------------*/
+.game-preview{
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-position: top;
+    background-size: cover;
+}
+
+.game-preview-img{
+    height: 200px;
+}
