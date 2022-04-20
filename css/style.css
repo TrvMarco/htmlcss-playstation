@@ -121,3 +121,7 @@ header{
 .new-releases{
     background-color: #1f1f1f;
 }
+
+.new-releases h4{
+    font-size: 25px;
+}
