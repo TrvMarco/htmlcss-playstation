@@ -158,3 +158,36 @@ header{
 .ps-now{
     background-color: #161C3B;
 }
+
+/*-------------
+  FOOTER
+-------------*/
+footer{
+    background-color: #00439c;
+    font-size: 14px;
+}
+
+.footer-ps-logo{
+    width: 100px;
+}
+
+.globe-icon{
+    height: 20px;
+}
+
+footer ul{
+    list-style: none;
+}
+
+footer li a{
+    text-decoration: none;
+    color: inherit;
+}
+
+footer a:hover{
+    color: inherit;
+}
+
+.sie-logo{
+    height: 50px;
+}
