@@ -30,6 +30,11 @@ body{
     color: #2D64E6;
 }
 
+.btn_gray_black{
+    background-color: #D9DADC;
+    color: #000;
+}
+
 /* text-color */
 .text_blue{
     color: #0072CE;
@@ -140,4 +145,11 @@ header{
 
 .ps-plus-logo{
     width: 60%;
+}
+
+/*-------------
+  PS NOW
+-------------*/
+.ps-now{
+    background-color: #161C3B;
 }
