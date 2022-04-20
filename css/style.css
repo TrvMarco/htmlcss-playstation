@@ -25,6 +25,11 @@ body{
     border-radius: 20px;
 }
 
+.btn_gray_blue{
+    background-color: #D9DADC;
+    color: #2D64E6;
+}
+
 /* text-color */
 .text_blue{
     color: #0072CE;
@@ -124,4 +129,15 @@ header{
 
 .new-releases h4{
     font-size: 25px;
+}
+
+/*-------------
+   PS PLUS
+-------------*/
+.ps-plus{
+    background-color: #BEBCBB;
+}
+
+.ps-plus-logo{
+    width: 60%;
 }
