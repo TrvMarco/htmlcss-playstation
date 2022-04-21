@@ -112,6 +112,11 @@ header{
     padding-bottom: 50px;
 }
 
+.border-active{
+    border: 2px solid #0072ce;
+    padding: 2px;
+}
+
 /*-------------
    ACCESSORIES
 -------------*/
@@ -203,9 +208,9 @@ footer a:hover{
 }
 
 
-/*-------------
+/*---------------
   HOVER EFFECTS
--------------*/
+---------------*/
 .product-container:hover{
     border-bottom: 2px solid #0072ce;
 }
@@ -235,4 +240,8 @@ footer a:hover{
 
 .btn_gray_blue:hover, .btn_gray_black:hover{
     box-shadow: 0 0 0 2px #D9DADC;
+}
+
+.translate-y:hover{
+    transform: translateY(-10px);
 }
