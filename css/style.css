@@ -117,6 +117,10 @@ header{
     padding: 2px;
 }
 
+.translate-y{
+    transition: all 0.4s ease-in-out;
+}
+
 /*-------------
    ACCESSORIES
 -------------*/
@@ -244,7 +248,6 @@ footer a:hover{
 
 .translate-y:hover{
     transform: translateY(-10px);
-    transition: 0.2s;
 }
 
 .product-container:hover{
