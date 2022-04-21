@@ -47,7 +47,7 @@ body{
 }
 
 .btn-dark{
-    border: 2px solid rgba(255, 255, 255, 0.15);
+    border: 2px solid #fff;
 }
 
 /* text-color */
@@ -90,13 +90,13 @@ header{
     display: none;
 }
 
-/*----------
-    HERO
-----------*/
-.hero{
+main{
     margin-top: 97px;
 }
 
+/*----------
+    HERO
+----------*/
 .hero-top{
     background-image: url("../img/jumbo-bg.png");
     background-position: top;
